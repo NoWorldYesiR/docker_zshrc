@@ -69,7 +69,7 @@ ZSH_THEME="conda_ys"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
-export TERM=xterm-256color"
+export TERM=xterm-256color
 export HOMEBREW_NO_AUTO_UPDATE=true
 
 source $ZSH/oh-my-zsh.sh
